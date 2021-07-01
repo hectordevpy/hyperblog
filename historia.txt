@@ -1,0 +1,3 @@
+Hola, mi nombre es Hector Soto Huamani.
+Este es mi primer commit de este curso.
+Estoy aprendiendo cosas valiosas.
