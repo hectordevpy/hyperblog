@@ -1,3 +1,7 @@
 Hola, mi nombre es Hector Soto Huamani.
 Este es mi primer commit de este curso.
 Estoy aprendiendo cosas valiosas.
+Ahora he creado un usuario de GitHub y estoy interactuando con él porque así se trabaja a nivel profesional.
+fun fact: El usuario se llama "Hectoryeah"
+Ahora he creado un usuario de GitHub y estoy interactuando con él porque así se trabaja a nivel profesional.
+fun fact: El usuario se llama "Hectoryeah".
