@@ -44,8 +44,27 @@ body
 {
     font-size: 20px; 
 }
-#post
+#post 
 {
-    background-color: black;
     padding: 1em;
+}
+
+#footer 
+{
+    background-color:black;
+    text-align: center;
+    padding: 2;
+}
+
+#post 
+{
+	padding: 1em;
+}
+
+#footer
+{
+	background: #777;
+	color: white;
+	text-align: center;
+	padding: 0.5em;
 }
