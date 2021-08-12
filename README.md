@@ -1,4 +1,4 @@
-# Repositorio git & github by Platzi. :tw-1f496:
+# Repositorio git & github by Platzi. ❤️
 Hyperblog es el proyecto que realicé durante mi aprendizaje del curso profesional de git & github dictado por Platzi. 
 
 > ***Recomiendo este curso por las siguientes razones:***
@@ -6,7 +6,7 @@ Hyperblog es el proyecto que realicé durante mi aprendizaje del curso profesion
 *- La clave está en que tú aprendas haciendo, menos teoría más acción.*
 *- Freddy es un profesor muy carismático y hace que el aprendizaje sea divertido.*
 
-**Si deseas acceder a mis notas sobre este curso da click **[aquí](http://https://www.notion.so/Curso-profesional-de-Git-y-GitHub-8bf9689c342a48a9b468490e36fb9bf9 "aquí")
+Si deseas acceder a mis notas sobre este curso da click **[aquí](http://https://www.notion.so/Curso-profesional-de-Git-y-GitHub-8bf9689c342a48a9b468490e36fb9bf9 "aquí")**
 
 **#NuncaParesDeAprender**
 **#KeepCalmAndCodePython**
