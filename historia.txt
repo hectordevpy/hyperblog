@@ -8,4 +8,4 @@ fun fact: El usuario se llama "Hectoryeah".
 Actualización: Ahora el usuario Hectoryeah está contribuyendo de forma externa e independiente al proyecto.
 Experimento 1
 Experimento 2
-Master 1
+Main 1
