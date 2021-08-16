@@ -6,6 +6,10 @@ Hyperblog es el proyecto que realicé durante mi aprendizaje del curso profesion
 >2. La clave está en que tú aprendas haciendo, menos teoría más acción.
 >3. Freddy es un profesor muy carismático y hace que el aprendizaje sea divertido.
 >4. Es uno de los cursos más completos que encontrarás en internet.
+<<<<<<< HEAD
+=======
+>5. Incluye ejemplos en Windows, Linux y Mac.
+>>>>>>> readme-mejorado
 
 Si deseas acceder a mis notas sobre este curso da click **[aquí](http://https://www.notion.so/Curso-profesional-de-Git-y-GitHub-8bf9689c342a48a9b468490e36fb9bf9 "aquí")**
 
